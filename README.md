@@ -1,5 +1,6 @@
 # Projeto-Integrador-Files
-Documentos do desenvolvimento do projeto
-<img width="1024" height="602" alt="image" src="https://github.com/user-attachments/assets/384dafe5-526b-4d22-bd8a-70557c3bf7a3" />
+
+
+<img width="1536" height="1024" alt="Cartão PsiCare em Verde Elegante" src="https://github.com/user-attachments/assets/a2199752-d018-4ec9-85ae-4bd45e0b3f3a" />
 
 
